@@ -87,6 +87,10 @@ O script main.py executa um loop a cada 60 segundos:
   - Tempo de resposta HTTP
   - Perda de pacotes
 
+Você pode importar esse painel no Grafana usando o JSON:
+
+[grafana_dashboard_web_monitor.json](./grafana_dashboard_web_monitor.json)
+
 :triangular_ruler: High Level Design (HLD)
 
 Componentes
